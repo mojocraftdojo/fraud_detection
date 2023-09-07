@@ -20,6 +20,6 @@ The standard ML models tested and compared here are:
    
    -- Gradient Boosting
 
-These models are built using Scikit-learn framework
+The above models are built using Scikit-learn framework
 
-An additional Artificial Neural Network (ANNs) model is also trained to compare with the above models. The model is built using Keras/Tensorflow2 framework. 
+On top of these, an Artificial Neural Network (ANNs) model is also trained to compare with the above models. This model is built suing Keras/Tensorflow2 framework. 
