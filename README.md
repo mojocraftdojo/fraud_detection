@@ -37,4 +37,4 @@ Other than these, an Artificial Neural Network (ANNs) model is also trained to c
 ---  Logistic Regression, Gradient Boost and SVM achieved F1 score in 0.7 ~ 0.8 range. Classification threshold adjustment has been attempted to boost performance when running Logistic Regression. 
 
 
-
+![F1 scores](https://github.com/mojocraftdojo/fraud_detection/blob/main/model_performance_comparison.png "Model Comparison")
