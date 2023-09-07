@@ -24,3 +24,16 @@ The machine learning models tested and compared here are:
 The above models are built using scikit-learn framework
 
 Other than these, an Artificial Neural Network (ANNs) model is also trained to compare with the above ML models. The ANN model is built using Keras/Tensorflow 2.0 framework. 
+
+
+
+Hightlighted results:
+
+--  The top performing classifiers for this dataset are CatBoost, Random Forest , XGBoost and ANNs. These models all easily pass F1 score cutoff (F1>=0.8). ANNs's performance seems slightly lower than the other three, but could be due to insufficient hyperparameter turning and insufficient epoch iterations.  
+
+--- CatBoost, Random Forest and XGBoost are trained using out-of-box parameters without any tuning, they all can achieve F1 score in 0.8 ~ 0.9 range.
+
+---- Logistic Regression, Gradient Boost and SVM achieved F1 score in 0.7 ~ 0.8 range. Classification threshold adjustment has been attempted to boost performance when running Logistic Regression. 
+
+
+
