@@ -27,13 +27,14 @@ Other than these, an Artificial Neural Network (ANNs) model is also trained to c
 
 
 
-Hightlighted results:
 
---  The top performing classifiers for this dataset are CatBoost, Random Forest , XGBoost and ANNs. These models all easily pass F1 score cutoff (F1>=0.8). ANNs's performance seems slightly lower than the other three, but could be due to insufficient hyperparameter turning and insufficient epoch iterations.  
+**Highlighted results:**
 
---- CatBoost, Random Forest and XGBoost are trained using out-of-box parameters without any tuning, they all can achieve F1 score in 0.8 ~ 0.9 range.
+---  Based on F1 comparison (see below figure), the top performing classifiers for this dataset are CatBoost, Random Forest , XGBoost and ANNs. These models all easily pass F1 score cutoff (F1>=0.8). ANNs's performance seems slightly lower than the other three, but could be due to insufficient hyperparameter turning and insufficient epoch iterations.  
 
----- Logistic Regression, Gradient Boost and SVM achieved F1 score in 0.7 ~ 0.8 range. Classification threshold adjustment has been attempted to boost performance when running Logistic Regression. 
+---  CatBoost, Random Forest and XGBoost are trained using out-of-box parameters without any tuning, they all can achieve F1 score in 0.8 ~ 0.9 range.
+
+---  Logistic Regression, Gradient Boost and SVM achieved F1 score in 0.7 ~ 0.8 range. Classification threshold adjustment has been attempted to boost performance when running Logistic Regression. 
 
 
 
