@@ -5,7 +5,7 @@ The Credit Card Fraud Detection Problem includes modeling the past credit card t
 The goal for this project is to predict fraudulent transactions while minimizing the incorrect fraud classifications.
 
 The dataset contains more than 284k transactions and 30 features which most of them have already been PCA transformed, but there are still EDA work need to be done before modeling.
-For example, Data cleaning, transformation and feature selection.
+For example, Data cleaning, transformation and feature selection. Majority of transactions are non fraud, thus this is a highly imbalanced dataset. 
 
 The machine learning models tested and compared here are: 
 
