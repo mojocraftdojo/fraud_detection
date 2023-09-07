@@ -9,10 +9,15 @@ The datasets contains more than 284k transactions and 30 features which most has
 The standard ML models tested and compared here are: 
 
    -- Logistic Regression
+   
    -- Support Vector Machine
+   
    -- Random Forest
+   
    -- XGBoost
+   
    -- CatBoost
+   
    -- Gradient Boosting
 
 These models are built using Scikit-learn framework
