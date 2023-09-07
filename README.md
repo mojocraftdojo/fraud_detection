@@ -1,4 +1,4 @@
-# Building predictive models to detect Credit Card Fraud 
+# Modelling for Credit Card Fraud Detection
 
 The Credit Card Fraud Detection Problem includes modeling the past credit card transactions with known fraud transactions. 
 
