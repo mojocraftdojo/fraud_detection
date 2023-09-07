@@ -22,4 +22,4 @@ The standard ML models tested and compared here are:
 
 The above models are built using Scikit-learn framework
 
-On top of these, an Artificial Neural Network (ANNs) model is also trained to compare with the above models. This model is built suing Keras/Tensorflow2 framework. 
+Other than these, an Artificial Neural Network (ANNs) model is also trained to compare with the above ML models. The ANN model is built using Keras/Tensorflow 2.0 framework. 
