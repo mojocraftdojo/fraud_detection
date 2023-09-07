@@ -4,7 +4,7 @@ The Credit Card Fraud Detection Problem includes modeling the past credit card t
 
 The goal for this project is to predict fraudulent transactions while minimizing the incorrect fraud classifications.
 
-The datasets contains more than 284k transactions and 30 features which most has already been PCA transformed, but there are still EDA work need to be done before modeling. 
+The dataset contains more than 284k transactions and 30 features which most of them have already been PCA transformed, but there are still EDA work need to be done before modeling. 
 
 The standard ML models tested and compared here are: 
 
@@ -20,6 +20,6 @@ The standard ML models tested and compared here are:
    
    -- Gradient Boosting
 
-The above models are built using Scikit-learn framework
+The above models are built using scikit-learn framework
 
 Other than these, an Artificial Neural Network (ANNs) model is also trained to compare with the above ML models. The ANN model is built using Keras/Tensorflow 2.0 framework. 
