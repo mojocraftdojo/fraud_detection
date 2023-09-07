@@ -32,7 +32,7 @@ Other than these, an Artificial Neural Network (ANNs) model is also trained to c
 
 ---  All models perform better on training set than testing set, which is expected
 
----  Based on F1-score , the top performing classifiers for this dataset are CatBoost, Random Forest , XGBoost and ANNs(see below figure). These models all easily pass F1 score cutoff (F1>=0.8). ANNs's performance seems slightly lower than the other three, but could be due to insufficient hyperparameter turning and insufficient epoch iterations.  
+---  Based on F1-score , the top performing classifiers for this dataset are CatBoost, Random Forest , XGBoost and ANNs(see below figure). These models all easily pass F1 score cutoff (F1>=0.8). ANNs's performance seems slightly lower than the other three, but there is room for improvement given more epoch runs and hyperparameter turning.
 
 ---  CatBoost, Random Forest and XGBoost are trained using out-of-box parameters without any tuning, they all can achieve F1 score in 0.8 ~ 0.9 range.
 
