@@ -9,7 +9,7 @@ For example, Data cleaning, transformation and feature selection. Majority of tr
 
 The machine learning models tested and compared here are: 
 
-   -- Logistic Regression
+   -- Logistic Regression (Baseline)
    
    -- Support Vector Machine
    
