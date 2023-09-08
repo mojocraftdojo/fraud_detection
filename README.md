@@ -23,7 +23,7 @@ The machine learning models tested and compared here are:
 
 The above models are built using scikit-learn framework. Logistic Regression is used as a baseline that all other models will be compared to. 
 
-Other than these, an Artificial Neural Network (ANNs) model is also trained to compare with the above traditional ML models. The ANN model is built using Keras/Tensorflow 2.0 framework. 
+In addition, an Artificial Neural Network (ANNs) model is also trained to compare with the above traditional ML models. The ANN model is built using Keras/Tensorflow 2.0 framework. 
 
 
 
